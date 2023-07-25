@@ -3,7 +3,7 @@ source 'http://www.rubygems.org'
 group :development do
   gem 'colorize', '~> 0.5.8'
   gem 'pry', '~> 0.9.8'
-  gem 'rake', '~> 0.9.2'
+  gem 'rake', '~> 12.3.3'
   gem 'ronn', '~> 0.7.3'
 end
 
